@@ -1,1 +1,3 @@
-# CSE110Jerry's User Page
+# CSE110
+Jerry's User Page
+My favorite programming language is Java
